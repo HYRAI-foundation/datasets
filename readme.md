@@ -1,6 +1,6 @@
 ## Hyra AI training data
 
-This repo contains the training data for Hera AI
+This repo contains the training data for Hyra AI
 
 ### Data sources
 
@@ -8,7 +8,8 @@ This repo contains the training data for Hera AI
 - [Hyperliquid Docs](https://hyperliquid.gitbook.io/hyperliquid-docs)
 
 
-> TODO:
+### Datasets roadmap
+
 - [ ] Normalize data from Hypurr
 - [ ] Price feed snapshots script
 - [ ] Hyperliquid Docs
